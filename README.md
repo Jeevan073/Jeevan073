@@ -38,7 +38,7 @@ class Jeevan(nn.Module):
     def forward(self, idea):
         prototype = self.build(idea)
         feedback  = self.test(prototype)
-        return self.improve(feedback)   # repeat until it ships
+        return self.improve(feedback)
 ```
 
 - 🧠 Exploring Generative AI and intelligent applications
