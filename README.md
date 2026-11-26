@@ -101,7 +101,7 @@ A software project designed to help organize and manage event-related workflows.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,c,cpp,js,nodejs,mysql,mongodb,supabase,git,github,docker&perline=7" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,c,cpp,mysql,supabase,git,github,docker&perline=7" alt="Technology stack"/>
 
 </div>
 
